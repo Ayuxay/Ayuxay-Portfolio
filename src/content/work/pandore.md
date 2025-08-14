@@ -1,5 +1,5 @@
 ---
-title: Titkok Essaie Pandore
+title: Titkok Pandore
 publishDate: 2026-03-02 00:00:00
 img: /assets/stock-15.png
 img_alt: Pandore
