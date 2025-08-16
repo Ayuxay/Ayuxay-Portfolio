@@ -1,13 +1,13 @@
 ---
-title: Titkok pour Sanjay
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-3.jpg
-img_alt: Sanjay
-youtube_id: bVH926kbRKQ
+title: Titkok Valorant
+publishDate: 2026-03-02 00:00:00
+img: /assets/stock-20.jpg
+img_alt: Ayuxay
+youtube_id: H4OB9xpsNwE
 youtube_type: short
 description: |
   
 tags:
-  - Montage
+  - Valorant
   - Short
   - Tiktok
