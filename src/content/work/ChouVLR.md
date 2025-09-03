@@ -1,13 +1,13 @@
 ---
-title: Titkok pour ChouVLR
-publishDate: 2023-10-27 00:00:00
-img: /assets/stock-5.jpg
+title: Vidéo Jeux d'horreur
+publishDate: 2026-10-27 00:00:00
+img: /assets/stock-24.jpg
 img_alt: Chou
-youtube_id: pWyfXnDaxrk
-youtube_type: short
+youtube_id: 7HE7WaVqic
+youtube_type: wide
 description: |
 
 tags:
   - Montage
-  - Short
-  - Tiktoks
+  - Horreur
+  - Best of

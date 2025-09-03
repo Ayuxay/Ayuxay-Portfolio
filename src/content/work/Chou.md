@@ -1,13 +1,13 @@
 ---
-title: Titkok pour ChouVLR
-publishDate: 2023-10-27 00:00:00
-img: /assets/stock-1.jpg
+title: Vidéo Valorant
+publishDate: 2026-10-27 00:00:00
+img: /assets/stock-23.jpg
 img_alt: Chou
-youtube_id: 7I9zIsaMYdE
-youtube_type: short
+youtube_id: PIBEEgbrlp8
+youtube_type: wide
 description: |
 
 tags:
   - Montage
-  - Short
-  - Tiktoks
+  - Valorant
+  - Goofy
